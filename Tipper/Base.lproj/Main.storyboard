@@ -93,6 +93,7 @@
                     <navigationItem key="navigationItem" title="Tip Calculator" id="nlB-A2-dEi"/>
                     <connections>
                         <outlet property="billField" destination="Xji-dg-XW4" id="GI0-qu-ddF"/>
+                        <outlet property="tipControl" destination="nSN-49-2DR" id="M3G-df-gLm"/>
                         <outlet property="tipLabel" destination="oZb-IC-ge4" id="gnK-Et-M5g"/>
                         <outlet property="totalLabel" destination="CoA-7q-9bP" id="JhQ-Bl-P3F"/>
                     </connections>
