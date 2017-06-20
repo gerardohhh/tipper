@@ -1,16 +1,16 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Tipper*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipper** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Gerardo Parra**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Although I followed the walkthrough step-by-step, my XCode for some reason gave me trouble connecting the segmented control with the calculation function. It stumped  both me and Charlie, but we got it to work after clearing and reestablishing all connections, and restarting XCode.
 
 ## Credits
 
