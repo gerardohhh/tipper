@@ -14,7 +14,6 @@
 		7EB327D61EF9BCB200E1B1F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EB327D41EF9BCB200E1B1F6 /* LaunchScreen.storyboard */; };
 		7EB327E11EF9BCB200E1B1F6 /* TipperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB327E01EF9BCB200E1B1F6 /* TipperTests.swift */; };
 		7EB327EC1EF9BCB300E1B1F6 /* TipperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB327EB1EF9BCB300E1B1F6 /* TipperUITests.swift */; };
-		7EE153D41EF9EAC5001037B4 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE153D31EF9EAC5001037B4 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,6 @@
 		7EB327E71EF9BCB300E1B1F6 /* TipperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EB327EB1EF9BCB300E1B1F6 /* TipperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipperUITests.swift; sourceTree = "<group>"; };
 		7EB327ED1EF9BCB300E1B1F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7EE153D31EF9EAC5001037B4 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +103,6 @@
 				7EB327D21EF9BCB200E1B1F6 /* Assets.xcassets */,
 				7EB327D41EF9BCB200E1B1F6 /* LaunchScreen.storyboard */,
 				7EB327D71EF9BCB200E1B1F6 /* Info.plist */,
-				7EE153D31EF9EAC5001037B4 /* SettingsViewController.swift */,
 			);
 			path = Tipper;
 			sourceTree = "<group>";
@@ -264,7 +261,6 @@
 			files = (
 				7EB327CE1EF9BCB200E1B1F6 /* ViewController.swift in Sources */,
 				7EB327CC1EF9BCB200E1B1F6 /* AppDelegate.swift in Sources */,
-				7EE153D41EF9EAC5001037B4 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
